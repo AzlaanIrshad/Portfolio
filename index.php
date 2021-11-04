@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Mijn Profiel</title>
+</head>
+<body class = "bg-yellow-100">  
+
+        <div class="bg-white mx-72 py-20 px-10 my-24 shadow-2xl rounded-lg" >
+        <p class="flex justify-center"> 
+        <img class="rounded-lg" src="a3.png" alt="foto" width="110" height="95">
+        <h1 class="flex justify-center font-serif font-bold text-5xl top-1/2" >
+            Azlaan Irshad
+        </h1>
+        <hr>
+    </p>
+
+        <h2 class="font-mono text-2xl flex justify-center mt-4 ml-16">
+        Ik ben Azlaan en ik ben 18 jaar oud en volg momenteel de <br>opleiding software developer op de Bit academy.
+        Ik hou van software programmeren en ben en enthousiast hoe de toekomst van programmeren eruit gaat zien.
+        </h2>
+
+        <p class="flex justify-center">
+        <a href="https://www.linkedin.com/in/azlaan-irshad/" target="_blank">
+        <img class="mt-3" src="lilogo.png" alt="logo1" style="height:37px; display:flex; justify-content:center;">
+</a>
+        <a href="https://github.com/AzlaanIrshad" target="_blank">
+        <img class="" src="ghlogo.png" alt="logo2" width="60">
+</a>
+        </p>    
+
+    </div>
+ 
+</body> 
+</html>
